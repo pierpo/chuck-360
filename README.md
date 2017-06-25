@@ -7,7 +7,7 @@ You need:
 
 - [ChucK](http://chuck.cs.princeton.edu/release/) (get miniAudicle)
 - An Xbox controller 🎮 that works
-  - on macOS: [use this driver](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller)
+  - on macOS: [use this driver](https://github.com/360Controller/360Controller/releases)
   - on Windows: no idea
   - on Linux: no idea
   
