@@ -23,3 +23,13 @@ You need:
 - <kbd>A</kbd>, <kbd>B</kbd>, <kbd>X</kbd>, <kbd>Y</kbd> play arpeggios for 4 chords : C, F, G and Am
 - You can play the notes of the current chord individually using the right stick
 - You can trigger a kick and a snare using the <kbd>LB</kbd> and <kbd>RB</kbd> triggers.
+
+## Credits
+
+This was done during a [Theodo](http://www.theodo.fr/fr/) hackbrunch. The team was:
+
+- Hugo D.
+- Gabrielle D.
+- Romain D.
+- Baptiste J.
+- Pierre P.
